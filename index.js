@@ -8,6 +8,7 @@ let text = document.createTextNode('JS');
 wrapper.appendChild(div);
 div.appendChild(text);
 
+// div.textContent = 'CSS';
 
 
 // myDiv.classList.add('class1', 'class2');
