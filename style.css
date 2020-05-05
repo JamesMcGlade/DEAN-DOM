@@ -4,7 +4,7 @@ html, body {
 	margin: 0;
 	padding: 0;
 }
-​
+
 #wrapper {
 	width: 100%;
 	height: 100vh;
@@ -13,7 +13,7 @@ html, body {
 	align-items: center;
 	background-color: #274E98;
 }
-​
+
 #box {
 	width: 20vh;
 	height: 20vh;
